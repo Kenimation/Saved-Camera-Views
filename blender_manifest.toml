@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "saved_camera_views"
+version = "1.0.0"
+name = "Saved Camera Views"
+tagline = "Saves and Reloads Camera view and settings."
+maintainer = "KEN <kken498@gmail.com>"
+type = "add-on"
+tags = [
+    "3D View", 
+    "Camera",
+    "Scene"
+]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later",]
